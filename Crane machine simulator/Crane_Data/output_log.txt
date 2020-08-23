@@ -1,0 +1,47 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.178 seconds
+Platform assembly: D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\OneDrive NEW\OneDrive\Unity projects\Fixed by Vlad\Crane_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.589677 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.367786 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 551.
+Total: 0.246906 ms (FindLiveObjects: 0.025682 ms CreateObjectMapping: 0.022885 ms MarkObjects: 0.187150 ms  DeleteObjects: 0.009916 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.656553 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 325.
+Total: 0.300814 ms (FindLiveObjects: 0.015002 ms CreateObjectMapping: 0.016782 ms MarkObjects: 0.219444 ms  DeleteObjects: 0.049076 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.446263 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 551.
+Total: 0.254535 ms (FindLiveObjects: 0.029242 ms CreateObjectMapping: 0.017291 ms MarkObjects: 0.199102 ms  DeleteObjects: 0.008391 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 32cc -> priority: 1 
+  Thread -> id: 84 -> priority: 1 
